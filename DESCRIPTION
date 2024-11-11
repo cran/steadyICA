@@ -2,7 +2,7 @@ Package: steadyICA
 Type: Package
 Title: ICA and Tests of Independence via Multivariate Distance
         Covariance
-Version: 1.0
+Version: 1.0.1
 Date: 2015-11-08
 Author: Benjamin B. Risk and Nicholas A. James and David S. Matteson
 Maintainer: Benjamin Risk <bbr28@cornell.edu>
@@ -18,6 +18,6 @@ Depends: Rcpp (>= 0.9.13), MASS, clue, combinat
 Suggests: irlba, JADE, ProDenICA, fastICA, energy
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2015-11-09 14:55:05 UTC; ben
+Packaged: 2024-11-09 19:48:29 UTC; ripley
 Repository: CRAN
-Date/Publication: 2015-11-11 00:08:41
+Date/Publication: 2024-11-11 17:35:45 UTC

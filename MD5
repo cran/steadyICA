@@ -1,4 +1,4 @@
-2ab9a983cbfa3bbeff21773cdb4fd6ef *DESCRIPTION
+0495bdb9c100a6e7ff5eab3463ac58cd *DESCRIPTION
 161367707a19e1a87f25d968093dfa60 *NAMESPACE
 d5025461df232def4ff82abdeeb16343 *R/gmultidcov.R
 21c1b4e9536d97e6c8c7e2f49cb04904 *R/infomaxICA.R
@@ -20,6 +20,6 @@ fc1db11683ef9d739b648885033e5b76 *man/steadyICA-package.Rd
 fc2eb911739f903b49869038f606c567 *man/steadyICA.Rd
 858c786705f19d8691151d4346a3b285 *man/theta2W.Rd
 08723f0215bf76c13644b6580876f40c *man/whitener.Rd
-efb7f7092c947280d013bc5c92419dd5 *src/BinDistC.cpp
+a39cb96ca02a0547eb2db23578d02acd *src/BinDistC.cpp
 b3f86c20b81b51f5162874977d38784d *src/Makevars
 a0be79dcd8383f88ec5e57cbd9c945d5 *src/multidcov.cpp
